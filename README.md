@@ -16,6 +16,10 @@ sudo pip3 install pandas
 ```
 
 ## Run 
+First, paste two logs files in this repo: 
+NASA_access_log_Aug95.gz and NASA_access_log_Jul95.gz
+
+After this, run spark analysis. 
 ``` 
 python3 run_spark.py 
 ```
